@@ -1,4 +1,4 @@
-<img src="https://uploader.shimo.im/f/nuWBHWQmJzATp2dI.png" width="100%" >
+<img src="https://covid-19.icu/img/red.1778b01b.svg" width="100%" >
 <h3 align="center">驰援一线 传递温暖</h3>
 
 # WuHan-Support :fist:
@@ -17,7 +17,7 @@
 
 我们的初心是帮助一线的医护人员，帮医疗机构传播需求，展示医院附近的食宿；同时也希望温暖被肺炎威胁的人们，展示发热门诊定点机构，展示在线义诊渠道——而非仅仅是通过一个冰冷的疫情地图来渲染恐慌。
 
-为此，本项目首要贡献于 https://feiyan.help ```信息网站```。该网站将回答：
+为此，本项目首要贡献于 https://covid-19.icu ```信息网站```。该网站将回答：
 + 哪些医院需要物资？
 + 哪些医院是卫健委的定点医院？
 + 哪些地方为医护人员提供免费住宿？
@@ -27,9 +27,9 @@
 
 此外，我们还有```微信机器人```项目，与```信息自动化获取```项目，分别用于推送疫情和分析疫情。
 
-### 1.1 feiyan.help 综合信息平台
+### 1.1 covid-19.icu 综合信息平台
 
-[https://app.feiyan.help](https://app.feiyan.help)
+[https://covid-19.icu](https://covid-19.icu)
 
 **面向疫区内外民众和医疗机构的多维度信息整合平台**
   - 提供医护人员免费住宿信息
@@ -64,7 +64,7 @@
 如果您钻研生物学、有机化学或者医学，那您大概就是我们最需要的人。相信我们一定能借助您的专业背景变得更好！敬请联系**陟原**（微信如前）。
 
 ### PS. 志愿者均可以加入下群(官方大群)：
-<img src="https://feiyan.help/images/qr_volunteers.png" width="200" >
+<img src="https://covid-19.icu/images/qr_volunteers.png" width="200" >
 
 ## 3. 合作
 
